@@ -1,25 +1,22 @@
 # begining-web
 web pratice on general
 
-# begining-web
-web pratice on general
-
 casual languages : php, java script, html, html5, javascript
 
-# PHP CMS (content management system) example : (search in google)
+PHP CMS (content management system) example : (search in google)
   wordpress
   joomla
   drupal
   moodle
 
-# php framework 
+php framework 
   codeigniter
   cakephp
   yiiframework
   laravel
   symfony
 
-# code editor php :
+code editor php :
   Visual Studio Code (VS Code)
   PHPStorm
   Sublime Text
@@ -30,7 +27,7 @@ casual languages : php, java script, html, html5, javascript
   Eclipse PDT (PHP Development Tools)
 
 
-# basic PHP web programming :
+basic PHP web programming :
   client side scripting vs server side scripting
   back-end vs Front-end
   static vs dynamic website
@@ -44,7 +41,8 @@ casual languages : php, java script, html, html5, javascript
   upload file, reporting.
   web hosting
 
-# web server or web hosting apps
+web server or web hosting apps
   apache
   xampp
   cpanel
+  http server
